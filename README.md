@@ -5,20 +5,16 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [Configuration Reference](https://cli.vuejs.org/config/)
+* [axios](https://axios-http.com/zh/docs/intro)
+* [vue-i18n](https://kazupon.github.io/vue-i18n/zh/started.html#html)
+* [element-ui](https://element.eleme.io/#/zh-CN/component/button)
+
+### Change
+* Add css folder
+* Add api folder and axios js
+* Add lang folder and i18n js
+* Add vue config js
+* Add .env
+* Modify eslint rule
